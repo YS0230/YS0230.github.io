@@ -95,3 +95,9 @@ body
 {
     background: #e91e63;
 }
+
+.fullsize
+{
+    height: 100%;
+    width: 100%;
+}
